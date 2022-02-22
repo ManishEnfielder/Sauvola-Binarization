@@ -2,7 +2,7 @@
 
 The Algorithm takes the image and convert it into greyscale and find the optimal thershold to binarize the image and shows the oupt in in GUI format
 # Input Images
-![image](https://user-images.githubusercontent.com/52602899/155152451-009042cc-934f-4d11-8ff3-1008f5f2c057.png)
+![image](https://user-images.githubusercontent.com/52602899/155152590-7cd52b4d-57be-4ce9-a47e-7d6792683e97.png)
 
 
 # Output Images
